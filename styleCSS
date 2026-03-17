@@ -4,7 +4,7 @@ assets/css/style.scss
 
 @import "{{ site.theme }}";
 
-/* 🔥 Style moderne */
+/*  Style moderne */
 
 body {
   font-family: 'Segoe UI', sans-serif;
