@@ -1,6 +1,6 @@
-# 📂 Mes projets Data Science
+# Mes projets Data Science
 
-## 📈 MASI Forecasting
+## MASI Forecasting
 
 Projet de prévision du marché boursier marocain.
 
@@ -14,7 +14,7 @@ Prédire l’évolution du MASI à partir de modèles statistiques et ML.
 
 ---
 
-## 🌍 Inclusion financière
+## Inclusion financière
 
 Analyse des déterminants de l’accès aux services financiers.
 
@@ -28,7 +28,7 @@ Comprendre les inégalités d’accès aux services financiers.
 
 ---
 
-## 🚢 Titanic Analysis
+## Titanic Analysis
 
 Analyse statistique des facteurs influençant la survie.
 
