@@ -50,7 +50,7 @@ Projet de prévision du marché boursier marocain à l’aide de modèles statis
 - Feature engineering (lags, moyennes mobiles)  
 - Comparaison des performances (RMSE, MAE)  
 
- 🔗 [Voir le projet](https://github.com/tonusername/MASI-Forecasting)
+ 
 
 ---
 
@@ -62,10 +62,10 @@ Analyse statistique des facteurs influençant la survie des passagers.
 - Analyse des observations influentes  
 - Interprétation statistique  
 
-🔗 [Voir le projet](https://github.com/tonusername/Titanic-Analysis)
+
 
 ---
-### 🌍 Analyse de l’inclusion financière
+### Analyse de l’inclusion financière
 Projet d’analyse des données liées à l’accès aux services financiers.
 
 - Analyse exploratoire des données socio-économiques  
@@ -76,7 +76,7 @@ Projet d’analyse des données liées à l’accès aux services financiers.
 Objectif :
 Comprendre les déterminants de l’inclusion financière et fournir des insights pour améliorer l’accès aux services financiers.
 
-🔗 [Voir le projet](https://github.com/tonusername/MASI-Forecasting)
+🔗 [Voir le projet](https://github.com/Emmanuel-tre/inclusion_financiere.git)
 
 ---
 ### Analyse d’un projet entrepreneurial
@@ -86,7 +86,7 @@ Comprendre les déterminants de l’inclusion financière et fournir des insight
 - Analyse du comportement des consommateurs  
 - Extraction d’insights business  
 
-🔗 [Voir le projet](https://github.com/tonusername/Entrepreneurial-Analysis)
+
 
 ---
 
@@ -96,12 +96,6 @@ Comprendre les déterminants de l’inclusion financière et fournir des insight
 - Détection de fraude bancaire  
 - Segmentation client (clustering)  
 - Création de dashboards interactifs  
-
----
-
-## Statistiques GitHub
-
-![Mes statistiques GitHub](https://github-readme-stats.vercel.app/api?username=tonusername&show_icons=true)
 
 ---
 
