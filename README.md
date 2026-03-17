@@ -50,7 +50,7 @@ Projet de prévision du marché boursier marocain à l’aide de modèles statis
 - Feature engineering (lags, moyennes mobiles)  
 - Comparaison des performances (RMSE, MAE)  
 
-🔗 [Voir le projet](https://github.com/tonusername/MASI-Forecasting)
+ 🔗 [Voir le projet](https://github.com/tonusername/MASI-Forecasting)
 
 ---
 
@@ -65,7 +65,20 @@ Analyse statistique des facteurs influençant la survie des passagers.
 🔗 [Voir le projet](https://github.com/tonusername/Titanic-Analysis)
 
 ---
+### 🌍 Analyse de l’inclusion financière
+Projet d’analyse des données liées à l’accès aux services financiers.
 
+- Analyse exploratoire des données socio-économiques  
+- Identification des facteurs influençant l’inclusion financière  
+- Analyse statistique et interprétation des résultats  
+- Mise en évidence des inégalités d’accès aux services financiers  
+
+Objectif :
+Comprendre les déterminants de l’inclusion financière et fournir des insights pour améliorer l’accès aux services financiers.
+
+🔗 [Voir le projet](https://github.com/tonusername/MASI-Forecasting)
+
+---
 ### Analyse d’un projet entrepreneurial
 Étude statistique basée sur une enquête réelle (100+ participants).
 
