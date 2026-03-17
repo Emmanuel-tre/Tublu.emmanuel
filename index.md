@@ -1,3 +1,4 @@
+
 # 👋 Emmanuel Tublu
 
 ### Data Scientist Junior | Finance | Machine Learning
@@ -46,3 +47,18 @@ Analyse statistique.
 
 📧 tubluemmanuel61@gmail.com  
 📍 Maroc
+
+
+## 📂 Projets
+
+<div class="project-card">
+<h3>📈 MASI Forecasting</h3>
+<p>Prévision du marché boursier marocain avec modèles ML.</p>
+<a href="https://github.com/emmanuel-tublu/MASI-Forecasting">Voir projet</a>
+</div>
+
+<div class="project-card">
+<h3>🌍 Inclusion financière</h3>
+<p>Analyse des inégalités d’accès aux services financiers.</p>
+<a href="https://github.com/emmanuel-tublu/financial-inclusion">Voir projet</a>
+</div>
