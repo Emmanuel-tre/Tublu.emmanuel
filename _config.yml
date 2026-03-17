@@ -1,17 +1,13 @@
 title: Emmanuel Tublu
-description: Data Scientist Junior spécialisé en analyse financière et modélisation
-theme: minima
+description: Data Scientist Junior | Analyse financière | Machine Learning
+
+theme: jekyll-theme-cayman
 
 author:
   name: Emmanuel Tublu
   email: tubluemmanuel61@gmail.com
 
-header_pages:
-  - index.md
-  - projects.md
-  - about.md
+github:
+  username: emmanuel-tublu
 
-social_links:
-  github: emmanuel-tublu
-
-show_excerpts: true
+show_downloads: false
