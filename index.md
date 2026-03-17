@@ -1,17 +1,17 @@
 
-# 👋 Emmanuel Tublu
+# Emmanuel Tublu
 
 ### Data Scientist Junior | Finance | Machine Learning
 
 ---
 
-## 🚀 À propos
+## À propos
 
 Passionné par l’analyse de données et les problématiques économiques, je développe des modèles de machine learning et de prévision pour extraire des insights à forte valeur.
 
 ---
 
-## 💼 Compétences
+## Compétences
 
 - Python | R | SQL  
 - Machine Learning  
@@ -20,45 +20,33 @@ Passionné par l’analyse de données et les problématiques économiques, je d
 
 ---
 
-## 📂 Projets
+## Projets
 
-### 📈 MASI Forecasting
+### MASI Forecasting
 Prévision de l’indice boursier marocain.
 
 👉 [Voir le projet](https://github.com/emmanuel-tublu/MASI-Forecasting)
 
 ---
 
-### 🌍 Inclusion financière
+### Inclusion financière
 Analyse des déterminants de l’accès aux services financiers.
 
 👉 [Voir le projet](https://github.com/emmanuel-tublu/financial-inclusion)
 
 ---
 
-### 🚢 Titanic Analysis
+### Titanic Analysis
 Analyse statistique.
 
 👉 [Voir le projet](https://github.com/emmanuel-tublu/Titanic-Analysis)
 
 ---
 
-## 📫 Contact
+## Contact
 
 📧 tubluemmanuel61@gmail.com  
 📍 Maroc
 
 
-## 📂 Projets
 
-<div class="project-card">
-<h3>📈 MASI Forecasting</h3>
-<p>Prévision du marché boursier marocain avec modèles ML.</p>
-<a href="https://github.com/emmanuel-tublu/MASI-Forecasting">Voir projet</a>
-</div>
-
-<div class="project-card">
-<h3>🌍 Inclusion financière</h3>
-<p>Analyse des inégalités d’accès aux services financiers.</p>
-<a href="https://github.com/emmanuel-tublu/financial-inclusion">Voir projet</a>
-</div>
