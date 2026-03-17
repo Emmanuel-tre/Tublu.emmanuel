@@ -1,47 +1,48 @@
-#  Emmanuel Tublu
+# 👋 Emmanuel Tublu
 
-## Data Scientist Junior | Analyse de données | Machine Learning
-
-Je suis Data Scientist junior spécialisé en **statistique, économétrie et analyse de données**, avec un intérêt particulier pour la **finance et la prévision économique**.
-
-🎓 Master en Statistique Économétrie  
-📜 Certifié Data Science – GoMyCode  
+### Data Scientist Junior | Finance | Machine Learning
 
 ---
 
-## Ce que je fais
+## 🚀 À propos
 
-- Analyse de données et visualisation  
+Passionné par l’analyse de données et les problématiques économiques, je développe des modèles de machine learning et de prévision pour extraire des insights à forte valeur.
+
+---
+
+## 💼 Compétences
+
+- Python | R | SQL  
 - Machine Learning  
-- Prévision de séries temporelles  
-- Analyse économique et inclusion financière  
+- Séries temporelles  
+- Analyse financière  
 
 ---
 
-## Projets clés
+## 📂 Projets
 
-### MASI Forecasting
-Prévision de l’indice boursier marocain avec modèles statistiques et machine learning.
+### 📈 MASI Forecasting
+Prévision de l’indice boursier marocain.
 
 👉 [Voir le projet](https://github.com/emmanuel-tublu/MASI-Forecasting)
 
 ---
 
-### Inclusion financière
-Analyse des facteurs influençant l’accès aux services financiers.
+### 🌍 Inclusion financière
+Analyse des déterminants de l’accès aux services financiers.
 
-👉 
-
----
-
-### Titanic Analysis
-Analyse statistique des facteurs de survie.
-
-
+👉 [Voir le projet](https://github.com/emmanuel-tublu/financial-inclusion)
 
 ---
 
-## Contact
+### 🚢 Titanic Analysis
+Analyse statistique.
+
+👉 [Voir le projet](https://github.com/emmanuel-tublu/Titanic-Analysis)
+
+---
+
+## 📫 Contact
 
 📧 tubluemmanuel61@gmail.com  
-📍 Salé, Maroc  
+📍 Maroc
