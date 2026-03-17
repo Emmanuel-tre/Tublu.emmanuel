@@ -13,6 +13,7 @@ Passionné par l’analyse de données, la modélisation statistique et le machi
 ##  À propos de moi
 
 Je suis particulièrement intéressé par l’analyse financière et la prévision économique, avec une forte appétence pour l’exploitation des données afin de comprendre et anticiper les dynamiques des marchés. Grâce à mes compétences en machine learning et en modélisation statistique, j’ai développé une expérience pratique dans l’analyse de séries temporelles, notamment appliquée au marché boursier. Ma motivation principale est de résoudre des problématiques concrètes en utilisant la data pour produire des insights pertinents et aider à la prise de décision.
+
 ---
 
 ## Compétences techniques
@@ -72,7 +73,7 @@ Projet d’analyse des données liées à l’accès aux services financiers.
 Objectif :
 Comprendre les déterminants de l’inclusion financière et fournir des insights pour améliorer l’accès aux services financiers.
 
-🔗 [Voir le projet](https://github.com/Emmanuel-tre/inclusion_financiere.git)
+🔗 [Voir le projet](https://inclusionfinanciere-trc9vsrmfbr7qxkyvkvpqg.streamlit.app/)
 
 ---
 ### Analyse d’un projet entrepreneurial
