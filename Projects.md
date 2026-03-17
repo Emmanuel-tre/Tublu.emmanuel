@@ -36,3 +36,5 @@ Analyse statistique des facteurs influençant la survie.
 - Régression logistique
 - Analyse des résidus
 - Interprétation statistique
+
+![MASI Graph](assets/images/masi.png)
