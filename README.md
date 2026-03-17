@@ -10,13 +10,9 @@ Passionné par l’analyse de données, la modélisation statistique et le machi
 
 ---
 
-## À propos de moi
+##  À propos de moi
 
-- Intérêt fort pour **l’analyse financière et la prévision économique**
-- Compétences en **Machine Learning et modélisation statistique**
-- Expérience en **séries temporelles (marché boursier)**
-- Motivation : résoudre des problèmes concrets avec la data
-
+Je suis particulièrement intéressé par l’analyse financière et la prévision économique, avec une forte appétence pour l’exploitation des données afin de comprendre et anticiper les dynamiques des marchés. Grâce à mes compétences en machine learning et en modélisation statistique, j’ai développé une expérience pratique dans l’analyse de séries temporelles, notamment appliquée au marché boursier. Ma motivation principale est de résoudre des problématiques concrètes en utilisant la data pour produire des insights pertinents et aider à la prise de décision.
 ---
 
 ## Compétences techniques
